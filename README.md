@@ -31,3 +31,25 @@ Imagenes de la Web en dispositivos de menor tamaño:
 ![MoveFlix-EXTRA](img/readme/inicio-md.png)
 
 ![MoveFlix-EXTRA](img/readme/pelicula-md.png)
+
+## Tecnologías
+
+Esta página web fue creada con:
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap 5(Sola la parte para enviar el Formulario)
+
+Además, se incluyeron **Google Fonts** para personalizar la fuente y **fontawesome** para incorporar íconos como flechas y logos de redes sociales populares. 
+
+## Español 
+
+El texto de la página web está escrito en español, al igual que las clases y atributos personalizados(Hay algunas clases en ingles).
+
+## Ver Proyecto en Vivo
+
+Puedes acceder al proyecto en vivo en: https://moveflix.netlify.app/
+
+
+
